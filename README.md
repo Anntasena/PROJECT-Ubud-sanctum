@@ -1,24 +1,3 @@
-﻿# 🌿 Ubud Sanctum – Platform Pemesanan Properti Modern
-
-![Ubud Sanctum Preview Website](public/dashboard_page.png)
-
-## 🏡 Tentang Ubud Sanctum
-
-Ubud Sanctum adalah solusi digital inovatif untuk pemesanan dan manajemen **berbagai jenis properti** seperti hotel, vila, apartemen, dan guest house. Dibangun dengan teknologi modern seperti **React dan Supabase**, aplikasi ini menghadirkan pengalaman reservasi yang **cepat, efisien, dan mudah digunakan** bagi pemilik properti maupun pelanggan.
-
-🔹 **Optimalkan manajemen properti Anda** dengan sistem berbasis cloud yang aman dan andal.
-🔹 **Percepat proses reservasi** dengan antarmuka intuitif dan performa tinggi.
-🔹 **Pantau data bisnis Anda** melalui dashboard analitik yang lengkap dan real-time.
-
-## 🚀 Fitur Unggulan
-
-✅ **Dashboard Analitik** – Lihat statistik pemesanan dan pendapatan dalam satu tampilan.
-✅ **Manajemen Reservasi** – Tambahkan, perbarui, atau hapus pemesanan dengan mudah.
-✅ **Sistem Check-in & Check-out** – Kelola tamu dengan cepat tanpa hambatan.
-✅ **Pengelolaan Properti & Kamar** – Tambahkan, edit, dan kelola informasi properti dengan fleksibilitas tinggi.
-✅ **Multi-User Management** – Atur hak akses admin untuk keamanan dan efisiensi operasional.
-✅ **Konfigurasi Properti** – Sesuaikan harga, fasilitas, dan kebijakan pemesanan dengan mudah.
-
 # 🌿 Ubud Sanctum – Platform Pemesanan Properti Modern
 
 ![Ubud Sanctum Preview Website](public/dashboard_page.png)
