@@ -16,16 +16,16 @@ const Wrapper = styled.div`
 `;
 
 const WrapperModal = styled.div`
-  width: 500px; /* Tetapkan lebar modal */
-  max-width: 90vw; /* Agar tetap responsif */
-  min-height: 550px; /* Pastikan modal memiliki tinggi minimal */
+  width: 500px;
+  max-width: 90vw;
+  min-height: 550px;
   padding: 20px;
   display: flex;
   flex-direction: column;
   gap: 15px;
   align-items: center;
   text-align: center;
-  justify-content: center; /* Pusatkan konten */
+  justify-content: center;
 `;
 
 const NavigationWrapper = styled.div`
@@ -63,7 +63,7 @@ const Dot = styled.span`
   height: 10px;
   border-radius: 50%;
   background-color: ${(props) =>
-    props.active ? "var(--color-brand-600)" : "var(--color-grey-300)"};
+    props.$active ? "var(--color-brand-600)" : "var(--color-grey-300)"};
   transition: background-color 0.3s ease-in-out;
 `;
 
@@ -129,7 +129,6 @@ function HowToUse() {
         </Modal.Open>
         <Modal.Window>
           <WrapperModal>
-            {/* Konten dengan tinggi seragam */}
             {page === 1 && (
               <>
                 <TbLockAccess size={400} strokeWidth={0.7} />
@@ -169,12 +168,16 @@ function HowToUse() {
                     Welcome aboard! Feel free to navigate through the features,
                     for more insights visit our
                   </p>
-                  <A href="/">Documentation</A>
+                  <A
+                    href="https://github.com/Anntasena/PROJECT-Ubud-sanctum"
+                    target="_blank"
+                  >
+                    Documentation
+                  </A>
                 </div>
               </>
             )}
 
-            {/* Navigasi */}
             <NavigationWrapper>
               <ArrowButton onClick={prevPage} disabled={page === 1}>
                 <FaArrowLeft />
@@ -182,7 +185,7 @@ function HowToUse() {
 
               <DotsWrapper>
                 {[...Array(MAX_PAGE)].map((_, index) => (
-                  <Dot key={index} active={page === index + 1} />
+                  <Dot key={index} $active={page === index + 1} />
                 ))}
               </DotsWrapper>
 
