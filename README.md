@@ -10,6 +10,8 @@ Ubud Sanctum adalah solusi digital inovatif untuk pemesanan dan manajemen **berb
 🔹 **Percepat proses reservasi** dengan antarmuka intuitif dan performa tinggi.
 🔹 **Pantau data bisnis Anda** melalui dashboard analitik yang lengkap dan real-time.
 
+🔗 **Coba Aplikasi Langsung:** [Ubud Sanctum Live Demo](https://ubudsanctum.vercel.app/login)
+
 ## 🚀 Fitur Unggulan
 
 ✅ **Dashboard Analitik** – Lihat statistik pemesanan dan pendapatan dalam satu tampilan.
