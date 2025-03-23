@@ -11,7 +11,7 @@ Ubud Sanctum adalah solusi digital inovatif untuk pemesanan dan manajemen **berb
 🔹 **Pantau data bisnis Anda** melalui dashboard analitik yang lengkap dan real-time.
 
 🔗 **Coba Aplikasi Langsung:** [Ubud Sanctum Vercel](ubudsanctum.vercel.app)
-🔗 **Coba Aplikasi Langsung:** [Ubud Sanctum Netlify](ubudsanctum.netlify.app)
+🔗 **Coba Aplikasi Langsung:** [Ubud Sanctum Netlify](https://ubudsanctum.netlify.app)
 
 ## 🚀 Fitur Unggulan
 
