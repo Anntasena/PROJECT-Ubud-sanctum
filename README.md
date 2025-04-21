@@ -1,79 +1,60 @@
-# 🌿 Ubud Sanctum – Platform Pemesanan Properti Modern
+# 🌿 Ubud Sanctum – Modern Property Booking Platform
 
 ![Ubud Sanctum Preview Website](public/dashboard_page.png)
 
-## 🏡 Tentang Ubud Sanctum
+## 🏡 About Ubud Sanctum
 
-Ubud Sanctum adalah solusi digital inovatif untuk pemesanan dan manajemen **berbagai jenis properti** seperti hotel, vila, apartemen, dan guest house. Dibangun dengan teknologi modern seperti **React dan Supabase**, aplikasi ini menghadirkan pengalaman reservasi yang **cepat, efisien, dan mudah digunakan** bagi pemilik properti maupun pelanggan.
+Ubud Sanctum is an innovative digital solution for booking and managing **various property types** such as hotels, villas, apartments, and guest houses. Built with modern technologies like **React and Supabase**, this application delivers a **fast, efficient, and user-friendly** reservation experience for both property owners and customers.
 
-🔹 **Optimalkan manajemen properti Anda** dengan sistem berbasis cloud yang aman dan andal.
-🔹 **Percepat proses reservasi** dengan antarmuka intuitif dan performa tinggi.
-🔹 **Pantau data bisnis Anda** melalui dashboard analitik yang lengkap dan real-time.
+🔹 **Optimize your property management** with a secure and reliable cloud-based system.
+🔹 **Accelerate reservation processes** with an intuitive interface and high performance.
+🔹 **Monitor your business data** through a comprehensive and real-time analytics dashboard.
 
-🔗 **Coba Aplikasi Langsung:**  
+🔗 **Try the App Directly:**  
 [Ubud Sanctum (Vercel)](https://ubudsanctum.vercel.app/)  
 [Ubud Sanctum (Netlify)](https://ubudsanctum.netlify.app/)  
 
-💡 *Untuk membuka tautan agar tidak error gunakan tab baru, caranya:*  
-- **Windows/Linux**: `Ctrl + Klik`  
-- **Mac**: `Cmd + Klik`  
-- Atau **klik kanan pada tautan** dan pilih *"Open Link in New Tab"*.  
+💡 *To open links without errors, use a new tab by:*  
+- **Windows/Linux**: `Ctrl + Click`  
+- **Mac**: `Cmd + Click`  
+- Or **right-click the link** and select *"Open Link in New Tab"*.  
 
-## 🚀 Fitur Unggulan
+## 🚀 Key Features
 
-✅ **Dashboard Analitik** – Lihat statistik pemesanan dan pendapatan dalam satu tampilan.
-✅ **Manajemen Reservasi** – Tambahkan, perbarui, atau hapus pemesanan dengan mudah.
-✅ **Sistem Check-in & Check-out** – Kelola tamu dengan cepat tanpa hambatan.
-✅ **Pengelolaan Properti & Kamar** – Tambahkan, edit, dan kelola informasi properti dengan fleksibilitas tinggi.
-✅ **Multi-User Management** – Atur hak akses admin untuk keamanan dan efisiensi operasional.
-✅ **Konfigurasi Properti** – Sesuaikan harga, fasilitas, dan kebijakan pemesanan dengan mudah.
+✅ **Analytics Dashboard** – View booking statistics and revenue at a glance.
+✅ **Reservation Management** – Easily add, update, or delete bookings.
+✅ **Check-in & Check-out System** – Manage guests quickly without hassle.
+✅ **Property & Room Management** – Flexibly add, edit, and manage property information.
+✅ **Multi-User Management** – Configure admin access rights for security and operational efficiency.
+✅ **Property Configuration** – Customize pricing, facilities, and booking policies effortlessly.
 
-## 🛠 Teknologi di Balik Ubud Sanctum
+## 🛠 Technology Behind Ubud Sanctum
 
-Ubud Sanctum dibangun dengan **stack teknologi modern** yang memastikan **kecepatan, keamanan, dan skalabilitas tinggi**:
+Ubud Sanctum is built with a **modern tech stack** ensuring **speed, security, and high scalability**:
 
 - **Frontend**: React, React Router, Styled Components
 - **Backend**: Supabase
 - **State Management**: TanStack React Query
-- **Visualisasi Data**: Recharts
-- **Notifikasi & UX Enhancements**: React Hot Toast, React Error Boundary
+- **Data Visualization**: Recharts
+- **Notifications & UX Enhancements**: React Hot Toast, React Error Boundary
 - **Linting & Code Quality**: ESLint
 - **Build Tool**: Vite
 
-## 🚀 Cara Instalasi & Mulai Menggunakan
+## 🚀 Installation & Getting Started
 
-### 1️⃣ Persyaratan
+### 1️⃣ Requirements
 
-Pastikan Anda telah menginstal **Node.js** (versi terbaru disarankan) dan **npm** atau **yarn** di sistem Anda.
+Ensure you have **Node.js** (latest version recommended) and **npm** or **yarn** installed on your system.
 
-### 2️⃣ Instalasi
+### 2️⃣ Installation
 
-Ikuti langkah-langkah berikut untuk menjalankan proyek di lingkungan lokal:
+Follow these steps to run the project locally:
 
-1. **Clone repositori ini:**
+1. **Clone this repository:**
    ```sh
    git clone https://github.com/Anntasena/PROJECT-Ubud-sanctum.git
-   ```
-2. **Masuk ke direktori proyek:**
-   ```sh
-   cd ubud-sanctum
-   ```
-3. **Instal dependencies:**
-   ```sh
-   npm install
-   ```
-4. **Siapkan file konfigurasi Supabase:**
 
-   - Buat file `.env.local`
-   - Tambahkan variabel Supabase sesuai dengan kredensial proyek Anda
-
-5. **Jalankan proyek dalam mode pengembangan:**
-   ```sh
-   npm run dev
-   ```
-6. **Buka browser Anda dan akses:** `http://localhost:5173`
-
-## 📜 Dependensi Utama
+## 📜  Core Dependencies
 
 ```json
 {
@@ -97,4 +78,4 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek di lingkungan lokal:
 
 ---
 
-✨ **Kelola properti Anda dengan lebih efisien dan modern bersama Ubud Sanctum!** ✨
+✨ Manage your properties more efficiently and modernly with Ubud Sanctum! ✨
